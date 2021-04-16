@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'kg_ray_of_sunshineregular';
     src: url('font/kgrayofsunshine-webfont.woff2') format('woff2'),
-         url('font/kgrayofsunshine-webfont.woff') format('woff');
+  url('font/kgrayofsunshine-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 body {
     font-family: 'kg_ray_of_sunshineregular';
-    height:auto;
+    height:auto !important;
 }
 .img1{
    margin-left: 30% !important; 
